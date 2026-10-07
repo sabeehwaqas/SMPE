@@ -1,5 +1,1 @@
-I think the number of datapoints used to drive the conclusion that temperture is not effecting the malfunctioning is not enough i.e Only 6 data points of malfunctioning are used to drive the decision, which is not strong enough evidence in it self.
-Secondly,the issue of not having the 'FALSE' cases for modelling where the malfunctioning didnt happen. This makes the model only look at one side of story, without understanding the actually relationship between temperature effects on malfunctioning. Its like traning Ml model for cancer detection and only giving cancer cases, no 'NO' cancer cases, which does not make sense.
-Also assumption is made that damaged O-ring are independent of each other but that is probably not true for real world case to drive such a strong conclusion, where lives are at stake.
-Temperature and pressure are also not independent in real world and neglecting it might be not a good idea. (its also due to less datapoints)
-I found the graphs were simple, easily understandable, to the point and with good textual discriptions.
+
